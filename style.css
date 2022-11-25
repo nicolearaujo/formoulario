@@ -1,3 +1,14 @@
 table{
     background: blue;
+    }
+     forme label{
+    
+    
+   display:block;
+ font-size: 25px;
 }
+         
+td{
+ border: 2px solid;
+ border-color: pink;   
+}    
